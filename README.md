@@ -2,7 +2,7 @@
 
 #### Perfil em construção ⚠️ ####
 
-(https://img.shields.io/github/followers/onildojunior?style=social)
+[(https://img.shields.io/github/followers/onildojunior?style=social)]
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamtekson?style=social)](https://twitter.com/iamtekson)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/iamtekson/)
 
