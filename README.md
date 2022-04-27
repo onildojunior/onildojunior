@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **any open source projects** 
 - 🤔 I’m looking for help with **above mentioned topics**
 - 💬 Ask me about **Zabbix, API, Networks and Science**
-- 📫 How to reach me: twitter: [](https://twitter.com/), instagram: [@jr.oni](https://www.instagram.com/), linkedin [Onildo Junior](https://www.linkedin.com/in//)
+- 📫 How to reach me: email: [Onildo Jr](mailto:onildo.ninho@hotmail.com), instagram: [@jr.oni](https://www.instagram.com/), linkedin [Onildo Junior](https://www.linkedin.com/in//)
 
 
 [![Onildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=onildojunior&count_private=true)](https://github.com/onildojunior)
