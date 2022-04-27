@@ -2,9 +2,9 @@
 
 #### Perfil em construção ⚠️ ####
 
-https://img.shields.io/github/followers/onildojunior?style=social
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamtekson?style=social)](https://twitter.com/iamtekson)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/iamtekson/)
+[![Github Follow](https://img.shields.io/github/followers/onildojunior?style=social)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/junynhocoelho?style=social)](https://twitter.com/junynhocoelho)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in//)
 
 - 🔭 I’m currently working at [Equatorial Telecom](https://www.equatorialtelecom.com.br/) 
     as Telecommunication Analyst
