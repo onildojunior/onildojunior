@@ -2,7 +2,7 @@
 
 #### Perfil em construção ⚠️ ####
 
-[![Github Follow](https://img.shields.io/github/followers/onildojunior?style=social)]
+[![Github Follow](https://img.shields.io/github/followers/onildojunior?style=social)](https://github.com/onildojunior)
 [![Twitter Follow](https://img.shields.io/twitter/follow/junynhocoelho?style=social)](https://twitter.com/junynhocoelho)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in//)
 
