@@ -9,6 +9,7 @@
 - 🔭 I’m currently working at [Equatorial Telecom](https://www.equatorialtelecom.com.br/) 
     as Telecommunication Analyst
 - 🌱 I’m currently learning Python using [django](https://www.djangoproject.com/)
+    and learning JavaScript using [react](https://reactjs.org/)
 - 👯 I’m looking to collaborate on **any open source projects** 
 - 🤔 I’m looking for help with **above mentioned topics**
 - 💬 Ask me about **Zabbix, API, Networks and Science**
